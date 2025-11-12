@@ -1,0 +1,14 @@
+node_modules
+dist
+.DS_Store
+server/public
+vite.config.ts.*
+*.tar.gz
+
+# 防止提交敏感資料
+attached_assets/Pasted-*.txt
+*.json
+!package.json
+!package-lock.json
+!tsconfig.json
+!drizzle.config.ts

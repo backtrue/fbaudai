@@ -1,0 +1,128 @@
+2025-11-11 23:50:57.32
+c639cd4e
+User
+}
+2025-11-11 23:50:57.32
+c639cd4e
+User
+JWT 驗證成功，用戶: backtrue@gmail.com
+2025-11-11 23:50:57.39
+c639cd4e
+User
+3:50:57 PM [express] GET /api/auth/user 304 in 100ms :: {"id":"102598988575056957509","email":"backt…
+2025-11-11 23:50:59.77
+c639cd4e
+User
+__eoi: 'ID=27cacd9701baa08f:T=1761397826:RT=1762766361:S=AA-AfjbYhrpfatcrUGY77UoQDajZ',
+2025-11-11 23:50:59.77
+c639cd4e
+User
+FCCDCF: '[null,null,null,null,null,null,[[32,"[\\"b4f1433d-fdf5-42a4-b368-16aa7d834b2f\\",[1761705719,713000000]]"]]]',
+2025-11-11 23:50:59.77
+c639cd4e
+User
+FCNEC: '[["AKsRol8PRdAeQCPsl4ztRnFbVjrVKMvfGmWW1rX1NZsEQWkeCz_8DKpyMxh5bLGz7moHAEmlnYI8Pf5PJjXmjzNRi_-M46qewFSqZqq2HYe1IMwEXyDDZn7mp0gPvs5NpXTCAZtH8P2ckuAd7cj0Buav6lhUqyQIfw=="]]',
+2025-11-11 23:50:59.77
+c639cd4e
+User
+auth_token: not found
+2025-11-11 23:50:59.77
+c639cd4e
+User
+Authorization header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMDI1OTg5ODg1NzUwNTY5NTc1MDkiLCJlbWFpbCI6ImJhY2t0cnVlQGdtYWlsLmNvbSIsIm5hbWUiOiLpgrHnhZzluq3vvIjpgrHlsI_pu5HvvIkiLCJtZW1iZXJzaGlwIjoicHJvIiwiY3JlZGl0cyI6OTIsImlzcyI6ImVjY2FsLnRoaW5rd2l0aGJsYWNrLmNvbSIsImF1ZCI6Imh0dHBzOi8vYXVkYWkudGhpbmt3aXRoYmxhY2suY29tLyIsImlhdCI6MTc2Mjg3NTk3NywiZXhwIjoxNzYzNDgwNzc3fQ.MHpMbVR6po4XE24ORVUn4efO6w44cfgRmEu3IfjDn7Q
+2025-11-11 23:51:09.91
+c639cd4e
+User
+可用的 cookies: {
+2025-11-11 23:51:09.91
+c639cd4e
+User
+_ga: 'GA1.1.1745286630.1746879770',
+2025-11-11 23:51:09.91
+c639cd4e
+User
+_fbp: 'fb.1.1750832184888.722745241179278580',
+2025-11-11 23:51:09.91
+c639cd4e
+User
+twk_uuid_688731fe4870571920642077: '{"uuid":"1.bK0J3HwGdHc62ClHVK1sBrp5XFx98jPCKrEkuIkfNj6c2WQkcKQcVxPZCnGFRPY7ZxEwGV4FhpASGQJareP4794NyCjGP3JWNWcf8DoFkY0YrUnqJx1rg5cYYcCCw","version":3,"domain":"thinkwithblack.com","ts":1753796078404}',
+2025-11-11 23:51:09.91
+c639cd4e
+User
+_clck: 'x477v7^2^fzc^0^2058',
+2025-11-11 23:51:09.91
+c639cd4e
+User
+_fbc: 'fb.1.1762701524782.IwY2xjawN9kCRleHRuA2FlbQIxMABicmlkETE3RDNTZjV3VFZ2Q3locldPc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHoWSfL32c61PZ0puZyfl1qeEUOCrqzR7jNostZQQ3vlZqmxR7SUx8jFJOGTE_aem_uymQMg5QeFp88meH2tZxgg',
+2025-11-11 23:51:09.91
+c639cd4e
+User
+__gads: 'ID=4fc9fca038b6733e:T=1761397826:RT=1762766361:S=ALNI_MbaWPajVGlTzW-RWx6WS0hLLXE9TQ',
+2025-11-11 23:51:09.91
+c639cd4e
+User
+__gpi: 'UID=000011a902ac0630:T=1761397826:RT=1762766361:S=ALNI_MZobY5NlcwuYPo83Ce7cDtV4SXsAw',
+2025-11-11 23:51:09.91
+c639cd4e
+User
+__eoi: 'ID=27cacd9701baa08f:T=1761397826:RT=1762766361:S=AA-AfjbYhrpfatcrUGY77UoQDajZ',
+2025-11-11 23:51:09.91
+c639cd4e
+User
+FCCDCF: '[null,null,null,null,null,null,[[32,"[\\"b4f1433d-fdf5-42a4-b368-16aa7d834b2f\\",[1761705719,713000000]]"]]]',
+2025-11-11 23:51:09.91
+c639cd4e
+User
+FCNEC: '[["AKsRol8PRdAeQCPsl4ztRnFbVjrVKMvfGmWW1rX1NZsEQWkeCz_8DKpyMxh5bLGz7moHAEmlnYI8Pf5PJjXmjzNRi_-M46qewFSqZqq2HYe1IMwEXyDDZn7mp0gPvs5NpXTCAZtH8P2ckuAd7cj0Buav6lhUqyQIfw=="]]',
+2025-11-11 23:51:09.91
+c639cd4e
+User
+_ga_T2PJR9T5EN: 'GS2.1.s1762873838$o381$g1$t1762876268$j48$l0$h0'
+2025-11-11 23:51:09.91
+c639cd4e
+User
+}
+2025-11-11 23:51:09.91
+c639cd4e
+User
+Authorization header: undefined
+2025-11-11 23:51:09.91
+c639cd4e
+User
+檢查可能的 cookie 名稱:
+2025-11-11 23:51:09.91
+c639cd4e
+User
+auth_token: not found
+2025-11-11 23:51:09.91
+c639cd4e
+User
+audai-jwt-token: not found
+2025-11-11 23:51:09.91
+c639cd4e
+User
+auth-token: not found
+2025-11-11 23:51:09.91
+c639cd4e
+User
+jwt-token: not found
+2025-11-11 23:51:09.91
+c639cd4e
+User
+token: not found
+2025-11-11 23:51:09.91
+c639cd4e
+User
+找到的 token: not found
+2025-11-11 23:51:09.91
+c639cd4e
+User
+找到的 token: not found
+2025-11-11 23:51:09.91
+c639cd4e
+User
+3:51:09 PM [express] POST /api/analyze 401 in 2ms :: {"message":"Unauthorized - No token provided"}
+2025-11-11 23:51:50.65
+6da6f6b0
+System
+system: received signal terminated

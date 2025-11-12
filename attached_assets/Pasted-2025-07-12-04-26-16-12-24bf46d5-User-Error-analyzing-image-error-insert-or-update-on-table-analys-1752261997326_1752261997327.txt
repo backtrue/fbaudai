@@ -1,0 +1,100 @@
+2025-07-12 04:26:16.12
+24bf46d5
+User
+Error analyzing image: error: insert or update on table "analyses" violates foreign key constraint "analyses_user_id_users_id_fk"
+2025-07-12 04:26:16.12
+24bf46d5
+User
+at file:///home/runner/workspace/node_modules/@neondatabase/serverless/index.mjs:1345:74
+2025-07-12 04:26:16.12
+24bf46d5
+User
+at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-07-12 04:26:16.12
+24bf46d5
+User
+at async NeonPreparedQuery.execute (file:///home/runner/workspace/node_modules/drizzle-orm/neon-serverless/session.js:76:20)
+2025-07-12 04:26:16.12
+24bf46d5
+User
+at async DatabaseStorage.createAnalysis (file:///home/runner/workspace/dist/index.js:530:27)
+2025-07-12 04:26:16.12
+24bf46d5
+User
+at async file:///home/runner/workspace/dist/index.js:1349:24 {
+2025-07-12 04:26:16.12
+24bf46d5
+User
+length: 288,
+2025-07-12 04:26:16.12
+24bf46d5
+User
+severity: 'ERROR',
+2025-07-12 04:26:16.12
+24bf46d5
+User
+code: '23503',
+2025-07-12 04:26:16.12
+24bf46d5
+User
+detail: 'Key (user_id)=(102598988575056957509) is not present in table "users".',
+2025-07-12 04:26:16.12
+24bf46d5
+User
+hint: undefined,
+2025-07-12 04:26:16.12
+24bf46d5
+User
+position: undefined,
+2025-07-12 04:26:16.12
+24bf46d5
+User
+internalPosition: undefined,
+2025-07-12 04:26:16.12
+24bf46d5
+User
+internalQuery: undefined,
+2025-07-12 04:26:16.12
+24bf46d5
+User
+where: undefined,
+2025-07-12 04:26:16.12
+24bf46d5
+User
+schema: 'public',
+2025-07-12 04:26:16.12
+24bf46d5
+User
+table: 'analyses',
+2025-07-12 04:26:16.12
+24bf46d5
+User
+column: undefined,
+2025-07-12 04:26:16.12
+24bf46d5
+User
+dataType: undefined,
+2025-07-12 04:26:16.12
+24bf46d5
+User
+constraint: 'analyses_user_id_users_id_fk',
+2025-07-12 04:26:16.12
+24bf46d5
+User
+file: 'ri_triggers.c',
+2025-07-12 04:26:16.12
+24bf46d5
+User
+line: '2608',
+2025-07-12 04:26:16.12
+24bf46d5
+User
+routine: 'ri_ReportViolation'
+2025-07-12 04:26:16.12
+24bf46d5
+User
+}
+2025-07-12 04:26:16.12
+24bf46d5
+User
+7:26:16 PM [express] POST /api/analyze 500 in 4715ms :: {"message":"Failed to analyze image"}

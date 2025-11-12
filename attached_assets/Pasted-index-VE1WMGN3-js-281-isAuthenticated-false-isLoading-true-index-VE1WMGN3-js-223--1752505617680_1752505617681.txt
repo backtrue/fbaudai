@@ -1,0 +1,77 @@
+index-VE1WMGN3.js:281 認證狀態: {isAuthenticated: false, isLoading: true}
+index-VE1WMGN3.js:223 🔄 初始化認證系統...
+multi-tabs.js:2 擷取 已完成載入:GET "chrome-extension://lknmjhcajhfbbglglccadlfdjbaiifig/content-scripts/multi-tabs.css"。
+kP @ multi-tabs.js:2
+OP @ multi-tabs.js:1
+main @ multi-tabs.js:3565
+await in main
+(匿名) @ multi-tabs.js:3565
+(匿名) @ multi-tabs.js:3565
+(匿名) @ multi-tabs.js:3565
+multi-tabs.js:3565 Injected CSS loaded successfully
+index-VE1WMGN3.js:223   GET https://audai.thinkwithblack.com/api/auth/user 401 (Unauthorized)
+a @ index-VE1WMGN3.js:223
+(匿名) @ index-VE1WMGN3.js:223
+cu @ index-VE1WMGN3.js:40
+jo @ index-VE1WMGN3.js:40
+yv @ index-VE1WMGN3.js:40
+li @ index-VE1WMGN3.js:38
+HC @ index-VE1WMGN3.js:40
+hi @ index-VE1WMGN3.js:40
+o0 @ index-VE1WMGN3.js:40
+C @ index-VE1WMGN3.js:25
+D @ index-VE1WMGN3.js:25
+index-VE1WMGN3.js:223 認證回應狀態: 401
+index-VE1WMGN3.js:223 ❌ 用戶未認證
+contentScript.bundle.js:6 🚧 👷 key 'required_field_warning' not found in localizedStrings for language zh 🚧
+contentScript.bundle.js:6 🚧 👷 key 'required_field_warning' not found in localizedStrings for language zh 🚧
+index-VE1WMGN3.js:281 認證狀態: {isAuthenticated: false, isLoading: false}
+index-VE1WMGN3.js:223 擷取 無法載入:GET "https://audai.thinkwithblack.com/api/auth/user"。
+a @ index-VE1WMGN3.js:223
+(匿名) @ index-VE1WMGN3.js:223
+cu @ index-VE1WMGN3.js:40
+jo @ index-VE1WMGN3.js:40
+yv @ index-VE1WMGN3.js:40
+li @ index-VE1WMGN3.js:38
+HC @ index-VE1WMGN3.js:40
+hi @ index-VE1WMGN3.js:40
+o0 @ index-VE1WMGN3.js:40
+C @ index-VE1WMGN3.js:25
+D @ index-VE1WMGN3.js:25
+contentScript.bundle.js:347 Strategy 4: No clear indicators found, assuming All tab 
+js?id=G-T2PJR9T5EN:168 擷取 無法載入:POST "https://www.google-analytics.com/g/collect?v=2&tid=G-T2PJR9T5EN&gtm=45je5791v9112902271za200&_p=1752505584874&gcd=13l3l3l3l1l1&npa=0&dma=0&tag_exp=101509157~103116026~103200004~103233427~103351869~103351871~104684208~104684211~104908321~104908323~104909302~104909304~104935091~104935093&cid=1745286630.1746879770&ul=zh-tw&sr=1512x982&uaa=arm&uab=64&uafvl=Not)A%253BBrand%3B8.0.0.0%7CChromium%3B138.0.7204.97%7CMicrosoft%2520Edge%3B138.0.3351.65&uamb=0&uam=&uap=macOS&uapv=15.5.0&uaw=0&are=1&frm=0&pscdl=noapi&_eu=AAAAAAQ&_s=1&sid=1752504804&sct=112&seg=1&dl=https%3A%2F%2Faudai.thinkwithblack.com%2F%3Fauth_success%3D1&dr=https%3A%2F%2Faccounts.google.com%2F&dt=%E5%A0%B1%E5%8F%97%E7%9C%BE%20-%20AI%20%E5%88%86%E6%9E%90%E7%94%A2%E5%93%81%E5%9C%96%E7%89%87%EF%BC%8C%E7%B2%BE%E6%BA%96%E6%89%BE%E5%88%B0%20Facebook%20%E5%BB%A3%E5%91%8A%E5%8F%97%E7%9C%BE&en=page_view&_ee=1&tfd=6186"。
+Uc @ js?id=G-T2PJR9T5EN:168
+jm @ js?id=G-T2PJR9T5EN:350
+XM @ js?id=G-T2PJR9T5EN:771
+k.flush @ js?id=G-T2PJR9T5EN:778
+(匿名) @ js?id=G-T2PJR9T5EN:776
+setTimeout
+k.Mb @ js?id=G-T2PJR9T5EN:776
+k.add @ js?id=G-T2PJR9T5EN:778
+k.Ol @ js?id=G-T2PJR9T5EN:795
+k.hq @ js?id=G-T2PJR9T5EN:795
+(匿名) @ js?id=G-T2PJR9T5EN:791
+en @ js?id=G-T2PJR9T5EN:367
+op @ js?id=G-T2PJR9T5EN:389
+(匿名) @ js?id=G-T2PJR9T5EN:791
+c @ js?id=G-T2PJR9T5EN:578
+Uy @ js?id=G-T2PJR9T5EN:578
+k.gq @ js?id=G-T2PJR9T5EN:791
+c @ js?id=G-T2PJR9T5EN:807
+v @ js?id=G-T2PJR9T5EN:408
+on @ js?id=G-T2PJR9T5EN:369
+Qq @ js?id=G-T2PJR9T5EN:408
+Pq.flush @ js?id=G-T2PJR9T5EN:412
+Pq.push @ js?id=G-T2PJR9T5EN:410
+config @ js?id=G-T2PJR9T5EN:667
+PD @ js?id=G-T2PJR9T5EN:675
+RD @ js?id=G-T2PJR9T5EN:678
+setTimeout
+B @ js?id=G-T2PJR9T5EN:165
+SD @ js?id=G-T2PJR9T5EN:681
+ho @ js?id=G-T2PJR9T5EN:874
+(匿名) @ js?id=G-T2PJR9T5EN:877
+c @ js?id=G-T2PJR9T5EN:875
+(匿名) @ js?id=G-T2PJR9T5EN:877
+(匿名) @ js?id=G-T2PJR9T5EN:877
+(匿名) @ js?id=G-T2PJR9T5EN:879

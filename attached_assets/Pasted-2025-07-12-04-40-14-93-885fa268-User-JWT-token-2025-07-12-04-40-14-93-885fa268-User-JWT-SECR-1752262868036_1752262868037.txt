@@ -1,0 +1,116 @@
+2025-07-12 04:40:14.93
+885fa268
+User
+正在驗證 JWT token...
+2025-07-12 04:40:14.93
+885fa268
+User
+JWT_SECRET exists: false
+2025-07-12 04:40:14.93
+885fa268
+User
+JWT payload decoded: {
+2025-07-12 04:40:14.93
+885fa268
+User
+sub: '102598988575056957509',
+2025-07-12 04:40:14.93
+885fa268
+User
+email: 'backtrue@gmail.com',
+2025-07-12 04:40:14.93
+885fa268
+User
+name: '邱煜庭（邱小黑）',
+2025-07-12 04:40:14.93
+885fa268
+User
+service: 'audai',
+2025-07-12 04:40:14.93
+885fa268
+User
+iss: 'eccal.thinkwithblack.com',
+2025-07-12 04:40:14.93
+885fa268
+User
+aud: 'https://audai.thinkwithblack.com',
+2025-07-12 04:40:14.93
+885fa268
+User
+iat: 1752262814,
+2025-07-12 04:40:14.93
+885fa268
+User
+exp: 1752867614
+2025-07-12 04:40:14.93
+885fa268
+User
+}
+2025-07-12 04:40:14.93
+885fa268
+User
+JWT 解碼成功，用戶: backtrue@gmail.com
+2025-07-12 04:40:14.93
+885fa268
+User
+檢查用戶是否存在於本地資料庫: 102598988575056957509
+2025-07-12 04:40:15.07
+885fa268
+User
+用戶不存在，正在創建新用戶記錄...
+2025-07-12 04:40:15.14
+885fa268
+User
+❌ 確保用戶存在時發生錯誤: error: update or delete on table "users" violates foreign key constraint "analyses_user_id_users_id_fk" on table "analyses"
+2025-07-12 04:40:15.14
+885fa268
+User
+at file:///home/runner/workspace/node_modules/@neondatabase/serverless/index.mjs:1345:74
+2025-07-12 04:40:15.14
+885fa268
+User
+at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-07-12 04:40:15.14
+885fa268
+User
+at async NeonPreparedQuery.execute (file:///home/runner/workspace/node_modules/drizzle-orm/neon-serverless/session.js:76:20)
+2025-07-12 04:40:15.14
+885fa268
+User
+at async DatabaseStorage.upsertUser (file:///home/runner/workspace/dist/index.js:518:29)
+2025-07-12 04:40:15.14
+885fa268
+User
+at async ensureUserExists (file:///home/runner/workspace/dist/index.js:607:7)
+2025-07-12 04:40:15.14
+885fa268
+User
+at async jwtAuth (file:///home/runner/workspace/dist/index.js:665:5) {
+2025-07-12 04:40:15.14
+885fa268
+User
+length: 297,
+2025-07-12 04:40:15.14
+885fa268
+User
+severity: 'ERROR',
+2025-07-12 04:40:15.14
+885fa268
+User
+code: '23503',
+2025-07-12 04:40:15.14
+885fa268
+User
+detail: 'Key (id)=(43642138) is still referenced from table "analyses".',
+2025-07-12 04:40:15.14
+885fa268
+User
+hint: undefined,
+2025-07-12 04:40:15.14
+885fa268
+User
+position: undefined,
+2025-07-12 04:40:15.14
+885fa268
+User
+internalPosition: undefined,

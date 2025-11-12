@@ -1,0 +1,212 @@
+index-Da6pkrFR.js:313 認證狀態: {isAuthenticated: false, isLoading: true}
+index-Da6pkrFR.js:243 🔄 初始化認證系統...
+index-Da6pkrFR.js:243 當前頁面 URL: https://audai.thinkwithblack.com/settings
+index-Da6pkrFR.js:243 當前 origin: https://audai.thinkwithblack.com
+index-Da6pkrFR.js:243 正在請求 API: https://audai.thinkwithblack.com/api/auth/user
+index-Da6pkrFR.js:243 ✅ 找到 localStorage token，添加到 Authorization header
+index-Da6pkrFR.js:248 ✅ Google Analytics initialized: G-T2PJR9T5EN
+index-Da6pkrFR.js:260 ✅ Meta Pixel initialized: 1896556794468089
+contentScript.bundle.js:6 🚧 👷 key 'required_field_warning' not found in localizedStrings for language zh 🚧
+contentScript.bundle.js:6 🚧 👷 key 'required_field_warning' not found in localizedStrings for language zh 🚧
+擷取 已完成載入:GET "<URL>"。
+擷取 已完成載入:GET "<URL>"。
+擷取 已完成載入:GET "<URL>"。
+擷取 已完成載入:GET "<URL>"。
+擷取 已完成載入:GET "<URL>"。
+擷取 已完成載入:GET "<URL>"。
+擷取 已完成載入:GET "<URL>"。
+擷取 已完成載入:GET "<URL>"。
+multi-tabs.js:5075 Injected CSS loaded successfully
+index-Da6pkrFR.js:243 認證回應狀態: 200
+index-Da6pkrFR.js:243 ✅ 用戶認證成功: {id: '102598988575056957509', email: 'backtrue@gmail.com', name: '邱煜庭（邱小黑）', membership: 'pro', credits: 92, …}
+index-Da6pkrFR.js:313 認證狀態: {isAuthenticated: true, isLoading: false}
+index-Da6pkrFR.js:243 🔄 初始化認證系統...
+index-Da6pkrFR.js:243 當前頁面 URL: https://audai.thinkwithblack.com/settings
+index-Da6pkrFR.js:243 當前 origin: https://audai.thinkwithblack.com
+index-Da6pkrFR.js:243 正在請求 API: https://audai.thinkwithblack.com/api/auth/user
+index-Da6pkrFR.js:243 ✅ 找到 localStorage token，添加到 Authorization header
+擷取 無法載入:POST "<URL>"。
+擷取 無法載入:POST "<URL>"。
+擷取 無法載入:POST "<URL>"。
+擷取 無法載入:POST "<URL>"。
+擷取 無法載入:POST "<URL>"。
+擷取 無法載入:POST "<URL>"。
+index-Da6pkrFR.js:243 認證回應狀態: 200
+index-Da6pkrFR.js:243 ✅ 用戶認證成功: {id: '102598988575056957509', email: 'backtrue@gmail.com', name: '邱煜庭（邱小黑）', membership: 'pro', credits: 92, …}
+index-Da6pkrFR.js:243 🔄 初始化認證系統...
+index-Da6pkrFR.js:243 當前頁面 URL: https://audai.thinkwithblack.com/settings
+index-Da6pkrFR.js:243 當前 origin: https://audai.thinkwithblack.com
+index-Da6pkrFR.js:243 正在請求 API: https://audai.thinkwithblack.com/api/auth/user
+index-Da6pkrFR.js:243 ✅ 找到 localStorage token，添加到 Authorization header
+index-Da6pkrFR.js:243 🔄 初始化認證系統...
+index-Da6pkrFR.js:243 當前頁面 URL: https://audai.thinkwithblack.com/settings
+index-Da6pkrFR.js:243 當前 origin: https://audai.thinkwithblack.com
+index-Da6pkrFR.js:243 正在請求 API: https://audai.thinkwithblack.com/api/auth/user
+index-Da6pkrFR.js:243 ✅ 找到 localStorage token，添加到 Authorization header
+index-Da6pkrFR.js:48   GET https://audai.thinkwithblack.com/api/dashboard/stats 401 (Unauthorized)
+(匿名) @ index-Da6pkrFR.js:48
+o @ index-Da6pkrFR.js:48
+b @ index-Da6pkrFR.js:48
+start @ index-Da6pkrFR.js:48
+fetch @ index-Da6pkrFR.js:48
+Ws @ index-Da6pkrFR.js:48
+onSubscribe @ index-Da6pkrFR.js:48
+subscribe @ index-Da6pkrFR.js:48
+(匿名) @ index-Da6pkrFR.js:48
+Dy @ index-Da6pkrFR.js:38
+pu @ index-Da6pkrFR.js:40
+Mo @ index-Da6pkrFR.js:40
+Sv @ index-Da6pkrFR.js:40
+ci @ index-Da6pkrFR.js:38
+Jj @ index-Da6pkrFR.js:40
+gi @ index-Da6pkrFR.js:40
+m0 @ index-Da6pkrFR.js:40
+j @ index-Da6pkrFR.js:25
+D @ index-Da6pkrFR.js:25
+index-Da6pkrFR.js:48 擷取 無法載入:GET "https://audai.thinkwithblack.com/api/dashboard/stats"。
+(匿名) @ index-Da6pkrFR.js:48
+o @ index-Da6pkrFR.js:48
+b @ index-Da6pkrFR.js:48
+start @ index-Da6pkrFR.js:48
+fetch @ index-Da6pkrFR.js:48
+Ws @ index-Da6pkrFR.js:48
+onSubscribe @ index-Da6pkrFR.js:48
+subscribe @ index-Da6pkrFR.js:48
+(匿名) @ index-Da6pkrFR.js:48
+Dy @ index-Da6pkrFR.js:38
+pu @ index-Da6pkrFR.js:40
+Mo @ index-Da6pkrFR.js:40
+Sv @ index-Da6pkrFR.js:40
+ci @ index-Da6pkrFR.js:38
+Jj @ index-Da6pkrFR.js:40
+gi @ index-Da6pkrFR.js:40
+m0 @ index-Da6pkrFR.js:40
+j @ index-Da6pkrFR.js:25
+D @ index-Da6pkrFR.js:25
+index-Da6pkrFR.js:243 認證回應狀態: 200
+index-Da6pkrFR.js:243 ✅ 用戶認證成功: {id: '102598988575056957509', email: 'backtrue@gmail.com', name: '邱煜庭（邱小黑）', membership: 'pro', credits: 92, …}
+via.placeholder.com/64:1   GET https://via.placeholder.com/64 net::ERR_NAME_NOT_RESOLVED
+Image
+wv @ index-Da6pkrFR.js:40
+p0 @ index-Da6pkrFR.js:40
+qj @ index-Da6pkrFR.js:40
+Jj @ index-Da6pkrFR.js:40
+gi @ index-Da6pkrFR.js:40
+m0 @ index-Da6pkrFR.js:40
+j @ index-Da6pkrFR.js:25
+D @ index-Da6pkrFR.js:25
+index-Da6pkrFR.js:243 認證回應狀態: 200
+index-Da6pkrFR.js:243 ✅ 用戶認證成功: {id: '102598988575056957509', email: 'backtrue@gmail.com', name: '邱煜庭（邱小黑）', membership: 'pro', credits: 92, …}
+index-Da6pkrFR.js:313 認證狀態: {isAuthenticated: true, isLoading: false}
+index-Da6pkrFR.js:243 🔄 初始化認證系統...
+index-Da6pkrFR.js:243 當前頁面 URL: https://audai.thinkwithblack.com/analysis
+index-Da6pkrFR.js:243 當前 origin: https://audai.thinkwithblack.com
+index-Da6pkrFR.js:243 正在請求 API: https://audai.thinkwithblack.com/api/auth/user
+index-Da6pkrFR.js:243 ✅ 找到 localStorage token，添加到 Authorization header
+index-Da6pkrFR.js:243 🔄 初始化認證系統...
+index-Da6pkrFR.js:243 當前頁面 URL: https://audai.thinkwithblack.com/analysis
+index-Da6pkrFR.js:243 當前 origin: https://audai.thinkwithblack.com
+index-Da6pkrFR.js:243 正在請求 API: https://audai.thinkwithblack.com/api/auth/user
+index-Da6pkrFR.js:243 ✅ 找到 localStorage token，添加到 Authorization header
+index-Da6pkrFR.js:243 🔄 初始化認證系統...
+index-Da6pkrFR.js:243 當前頁面 URL: https://audai.thinkwithblack.com/analysis
+index-Da6pkrFR.js:243 當前 origin: https://audai.thinkwithblack.com
+index-Da6pkrFR.js:243 正在請求 API: https://audai.thinkwithblack.com/api/auth/user
+index-Da6pkrFR.js:243 ✅ 找到 localStorage token，添加到 Authorization header
+index-Da6pkrFR.js:48   GET https://audai.thinkwithblack.com/api/dashboard/stats 401 (Unauthorized)
+(匿名) @ index-Da6pkrFR.js:48
+o @ index-Da6pkrFR.js:48
+b @ index-Da6pkrFR.js:48
+start @ index-Da6pkrFR.js:48
+fetch @ index-Da6pkrFR.js:48
+Ws @ index-Da6pkrFR.js:48
+onSubscribe @ index-Da6pkrFR.js:48
+subscribe @ index-Da6pkrFR.js:48
+(匿名) @ index-Da6pkrFR.js:48
+Dy @ index-Da6pkrFR.js:38
+pu @ index-Da6pkrFR.js:40
+Mo @ index-Da6pkrFR.js:40
+Jj @ index-Da6pkrFR.js:40
+gi @ index-Da6pkrFR.js:40
+Sv @ index-Da6pkrFR.js:40
+ci @ index-Da6pkrFR.js:38
+(匿名) @ index-Da6pkrFR.js:40
+index-Da6pkrFR.js:48 擷取 無法載入:GET "https://audai.thinkwithblack.com/api/dashboard/stats"。
+(匿名) @ index-Da6pkrFR.js:48
+o @ index-Da6pkrFR.js:48
+b @ index-Da6pkrFR.js:48
+start @ index-Da6pkrFR.js:48
+fetch @ index-Da6pkrFR.js:48
+Ws @ index-Da6pkrFR.js:48
+onSubscribe @ index-Da6pkrFR.js:48
+subscribe @ index-Da6pkrFR.js:48
+(匿名) @ index-Da6pkrFR.js:48
+Dy @ index-Da6pkrFR.js:38
+pu @ index-Da6pkrFR.js:40
+Mo @ index-Da6pkrFR.js:40
+Jj @ index-Da6pkrFR.js:40
+gi @ index-Da6pkrFR.js:40
+Sv @ index-Da6pkrFR.js:40
+ci @ index-Da6pkrFR.js:38
+(匿名) @ index-Da6pkrFR.js:40
+index-Da6pkrFR.js:243 認證回應狀態: 200
+index-Da6pkrFR.js:243 ✅ 用戶認證成功: {id: '102598988575056957509', email: 'backtrue@gmail.com', name: '邱煜庭（邱小黑）', membership: 'pro', credits: 92, …}
+index-Da6pkrFR.js:243 認證回應狀態: 200
+index-Da6pkrFR.js:243 ✅ 用戶認證成功: {id: '102598988575056957509', email: 'backtrue@gmail.com', name: '邱煜庭（邱小黑）', membership: 'pro', credits: 92, …}
+index-Da6pkrFR.js:243 認證回應狀態: 200
+index-Da6pkrFR.js:243 ✅ 用戶認證成功: {id: '102598988575056957509', email: 'backtrue@gmail.com', name: '邱煜庭（邱小黑）', membership: 'pro', credits: 92, …}
+index-Da6pkrFR.js:48   GET https://audai.thinkwithblack.com/api/dashboard/stats 401 (Unauthorized)
+(匿名) @ index-Da6pkrFR.js:48
+o @ index-Da6pkrFR.js:48
+b @ index-Da6pkrFR.js:48
+start @ index-Da6pkrFR.js:48
+fetch @ index-Da6pkrFR.js:48
+Ws @ index-Da6pkrFR.js:48
+setOptions @ index-Da6pkrFR.js:48
+(匿名) @ index-Da6pkrFR.js:48
+pu @ index-Da6pkrFR.js:40
+Mo @ index-Da6pkrFR.js:40
+(匿名) @ index-Da6pkrFR.js:40
+j @ index-Da6pkrFR.js:25
+D @ index-Da6pkrFR.js:25
+index-Da6pkrFR.js:48 擷取 無法載入:GET "https://audai.thinkwithblack.com/api/dashboard/stats"。
+(匿名) @ index-Da6pkrFR.js:48
+o @ index-Da6pkrFR.js:48
+b @ index-Da6pkrFR.js:48
+start @ index-Da6pkrFR.js:48
+fetch @ index-Da6pkrFR.js:48
+Ws @ index-Da6pkrFR.js:48
+setOptions @ index-Da6pkrFR.js:48
+(匿名) @ index-Da6pkrFR.js:48
+pu @ index-Da6pkrFR.js:40
+Mo @ index-Da6pkrFR.js:40
+(匿名) @ index-Da6pkrFR.js:40
+j @ index-Da6pkrFR.js:25
+D @ index-Da6pkrFR.js:25
+index-Da6pkrFR.js:48 apiRequest called: {method: 'POST', url: '/api/analyze', isFormData: true}
+index-Da6pkrFR.js:48   POST https://audai.thinkwithblack.com/api/analyze 401 (Unauthorized)
+Bv @ index-Da6pkrFR.js:48
+mutationFn @ index-Da6pkrFR.js:313
+fn @ index-Da6pkrFR.js:48
+b @ index-Da6pkrFR.js:48
+start @ index-Da6pkrFR.js:48
+execute @ index-Da6pkrFR.js:48
+await in execute
+mutate @ index-Da6pkrFR.js:48
+(匿名) @ index-Da6pkrFR.js:48
+g @ index-Da6pkrFR.js:313
+u @ index-Da6pkrFR.js:309
+(匿名) @ index-Da6pkrFR.js:309
+await in (匿名)
+x_ @ index-Da6pkrFR.js:37
+w_ @ index-Da6pkrFR.js:37
+b_ @ index-Da6pkrFR.js:37
+Zh @ index-Da6pkrFR.js:37
+wy @ index-Da6pkrFR.js:37
+(匿名) @ index-Da6pkrFR.js:37
+fm @ index-Da6pkrFR.js:40
+Wx @ index-Da6pkrFR.js:37
+ld @ index-Da6pkrFR.js:37
+$p @ index-Da6pkrFR.js:37
+F_ @ index-Da6pkrFR.js:37
+index-Da6pkrFR.js:48 apiRequest response: 401 

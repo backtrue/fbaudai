@@ -1,0 +1,100 @@
+index-iuCRS_Z8.js:313 認證狀態: {isAuthenticated: false, isLoading: true}
+index-iuCRS_Z8.js:243 🔄 初始化認證系統...
+index-iuCRS_Z8.js:243 當前頁面 URL: https://audai.thinkwithblack.com/
+index-iuCRS_Z8.js:243 當前 origin: https://audai.thinkwithblack.com
+index-iuCRS_Z8.js:243 正在請求 API: https://audai.thinkwithblack.com/api/auth/user
+index-iuCRS_Z8.js:243 ✅ 找到 localStorage token，添加到 Authorization header
+index-iuCRS_Z8.js:248 ✅ Google Analytics initialized: G-T2PJR9T5EN
+index-iuCRS_Z8.js:260 ✅ Meta Pixel initialized: 1896556794468089
+contentScript.bundle.js:6 🚧 👷 key 'required_field_warning' not found in localizedStrings for language zh 🚧
+contentScript.bundle.js:6 🚧 👷 key 'required_field_warning' not found in localizedStrings for language zh 🚧
+index-iuCRS_Z8.js:243 認證回應狀態: 200
+擷取 已完成載入:GET "<URL>"。
+擷取 已完成載入:GET "<URL>"。
+擷取 已完成載入:GET "<URL>"。
+擷取 已完成載入:GET "<URL>"。
+擷取 已完成載入:GET "<URL>"。
+擷取 已完成載入:GET "<URL>"。
+擷取 已完成載入:GET "<URL>"。
+擷取 已完成載入:GET "<URL>"。
+擷取 已完成載入:GET "<URL>"。
+擷取 已完成載入:GET "<URL>"。
+index-iuCRS_Z8.js:243 ✅ 用戶認證成功: {id: '102598988575056957509', email: 'backtrue@gmail.com', name: '邱煜庭（邱小黑）', membership: 'pro', credits: 92, …}
+index-iuCRS_Z8.js:313 認證狀態: {isAuthenticated: true, isLoading: false}
+index-iuCRS_Z8.js:243 🔄 初始化認證系統...
+index-iuCRS_Z8.js:243 當前頁面 URL: https://audai.thinkwithblack.com/
+index-iuCRS_Z8.js:243 當前 origin: https://audai.thinkwithblack.com
+index-iuCRS_Z8.js:243 正在請求 API: https://audai.thinkwithblack.com/api/auth/user
+index-iuCRS_Z8.js:243 ✅ 找到 localStorage token，添加到 Authorization header
+multi-tabs.js:5075 Injected CSS loaded successfully
+擷取 無法載入:POST "<URL>"。
+擷取 無法載入:POST "<URL>"。
+擷取 無法載入:POST "<URL>"。
+擷取 無法載入:POST "<URL>"。
+擷取 無法載入:POST "<URL>"。
+擷取 無法載入:POST "<URL>"。
+index-iuCRS_Z8.js:243 認證回應狀態: 200
+index-iuCRS_Z8.js:243 ✅ 用戶認證成功: {id: '102598988575056957509', email: 'backtrue@gmail.com', name: '邱煜庭（邱小黑）', membership: 'pro', credits: 92, …}
+index-iuCRS_Z8.js:243 🔄 初始化認證系統...
+index-iuCRS_Z8.js:243 當前頁面 URL: https://audai.thinkwithblack.com/
+index-iuCRS_Z8.js:243 當前 origin: https://audai.thinkwithblack.com
+index-iuCRS_Z8.js:243 正在請求 API: https://audai.thinkwithblack.com/api/auth/user
+index-iuCRS_Z8.js:243 ✅ 找到 localStorage token，添加到 Authorization header
+index-iuCRS_Z8.js:243 🔄 初始化認證系統...
+index-iuCRS_Z8.js:243 當前頁面 URL: https://audai.thinkwithblack.com/
+index-iuCRS_Z8.js:243 當前 origin: https://audai.thinkwithblack.com
+index-iuCRS_Z8.js:243 正在請求 API: https://audai.thinkwithblack.com/api/auth/user
+index-iuCRS_Z8.js:243 ✅ 找到 localStorage token，添加到 Authorization header
+index-iuCRS_Z8.js:243 認證回應狀態: 200
+index-iuCRS_Z8.js:243 ✅ 用戶認證成功: {id: '102598988575056957509', email: 'backtrue@gmail.com', name: '邱煜庭（邱小黑）', membership: 'pro', credits: 92, …}
+index-iuCRS_Z8.js:243 認證回應狀態: 200
+index-iuCRS_Z8.js:243 ✅ 用戶認證成功: {id: '102598988575056957509', email: 'backtrue@gmail.com', name: '邱煜庭（邱小黑）', membership: 'pro', credits: 92, …}
+index-iuCRS_Z8.js:313 認證狀態: {isAuthenticated: true, isLoading: false}
+index-iuCRS_Z8.js:243 🔄 初始化認證系統...
+index-iuCRS_Z8.js:243 當前頁面 URL: https://audai.thinkwithblack.com/analysis
+index-iuCRS_Z8.js:243 當前 origin: https://audai.thinkwithblack.com
+index-iuCRS_Z8.js:243 正在請求 API: https://audai.thinkwithblack.com/api/auth/user
+index-iuCRS_Z8.js:243 ✅ 找到 localStorage token，添加到 Authorization header
+index-iuCRS_Z8.js:243 🔄 初始化認證系統...
+index-iuCRS_Z8.js:243 當前頁面 URL: https://audai.thinkwithblack.com/analysis
+index-iuCRS_Z8.js:243 當前 origin: https://audai.thinkwithblack.com
+index-iuCRS_Z8.js:243 正在請求 API: https://audai.thinkwithblack.com/api/auth/user
+index-iuCRS_Z8.js:243 ✅ 找到 localStorage token，添加到 Authorization header
+index-iuCRS_Z8.js:243 🔄 初始化認證系統...
+index-iuCRS_Z8.js:243 當前頁面 URL: https://audai.thinkwithblack.com/analysis
+index-iuCRS_Z8.js:243 當前 origin: https://audai.thinkwithblack.com
+index-iuCRS_Z8.js:243 正在請求 API: https://audai.thinkwithblack.com/api/auth/user
+index-iuCRS_Z8.js:243 ✅ 找到 localStorage token，添加到 Authorization header
+index-iuCRS_Z8.js:243 認證回應狀態: 200
+index-iuCRS_Z8.js:243 ✅ 用戶認證成功: {id: '102598988575056957509', email: 'backtrue@gmail.com', name: '邱煜庭（邱小黑）', membership: 'pro', credits: 92, …}
+index-iuCRS_Z8.js:243 認證回應狀態: 200
+index-iuCRS_Z8.js:243 ✅ 用戶認證成功: {id: '102598988575056957509', email: 'backtrue@gmail.com', name: '邱煜庭（邱小黑）', membership: 'pro', credits: 92, …}
+index-iuCRS_Z8.js:243 認證回應狀態: 200
+index-iuCRS_Z8.js:243 ✅ 用戶認證成功: {id: '102598988575056957509', email: 'backtrue@gmail.com', name: '邱煜庭（邱小黑）', membership: 'pro', credits: 92, …}
+index-iuCRS_Z8.js:48 apiRequest called: {method: 'POST', url: '/api/analyze', isFormData: true}
+index-iuCRS_Z8.js:48   POST https://audai.thinkwithblack.com/api/analyze 500 (Internal Server Error)
+Bv @ index-iuCRS_Z8.js:48
+mutationFn @ index-iuCRS_Z8.js:313
+fn @ index-iuCRS_Z8.js:48
+b @ index-iuCRS_Z8.js:48
+start @ index-iuCRS_Z8.js:48
+execute @ index-iuCRS_Z8.js:48
+await in execute
+mutate @ index-iuCRS_Z8.js:48
+(匿名) @ index-iuCRS_Z8.js:48
+g @ index-iuCRS_Z8.js:313
+u @ index-iuCRS_Z8.js:309
+(匿名) @ index-iuCRS_Z8.js:309
+await in (匿名)
+x_ @ index-iuCRS_Z8.js:37
+w_ @ index-iuCRS_Z8.js:37
+b_ @ index-iuCRS_Z8.js:37
+Zh @ index-iuCRS_Z8.js:37
+wy @ index-iuCRS_Z8.js:37
+(匿名) @ index-iuCRS_Z8.js:37
+fm @ index-iuCRS_Z8.js:40
+Wx @ index-iuCRS_Z8.js:37
+ld @ index-iuCRS_Z8.js:37
+$p @ index-iuCRS_Z8.js:37
+F_ @ index-iuCRS_Z8.js:37
+index-iuCRS_Z8.js:48 apiRequest response: 500 

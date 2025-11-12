@@ -1,0 +1,64 @@
+ 認證狀態: Object
+ 🔄 初始化認證系統...
+ 當前頁面 URL: https://audai.thinkwithblack.com/
+ 當前 origin: https://audai.thinkwithblack.com
+ 正在請求 API: https://audai.thinkwithblack.com/api/auth/user
+ ✅ 找到 localStorage token，添加到 Authorization header
+ ✅ Google Analytics initialized: G-T2PJR9T5EN
+ ✅ Meta Pixel initialized: 1896556794468089
+ 🚧 👷 key 'required_field_warning' not found in localizedStrings for language zh 🚧
+ 🚧 👷 key 'required_field_warning' not found in localizedStrings for language zh 🚧
+ Injected CSS loaded successfully
+index-Da6pkrFR.js:243 認證回應狀態: 200
+index-Da6pkrFR.js:243 ✅ 用戶認證成功: Object
+index-Da6pkrFR.js:313 認證狀態: Object
+index-Da6pkrFR.js:243 🔄 初始化認證系統...
+index-Da6pkrFR.js:243 當前頁面 URL: https://audai.thinkwithblack.com/
+index-Da6pkrFR.js:243 當前 origin: https://audai.thinkwithblack.com
+index-Da6pkrFR.js:243 正在請求 API: https://audai.thinkwithblack.com/api/auth/user
+index-Da6pkrFR.js:243 ✅ 找到 localStorage token，添加到 Authorization header
+index-Da6pkrFR.js:243 認證回應狀態: 200
+index-Da6pkrFR.js:243 ✅ 用戶認證成功: Object
+index-Da6pkrFR.js:243 🔄 初始化認證系統...
+index-Da6pkrFR.js:243 當前頁面 URL: https://audai.thinkwithblack.com/
+index-Da6pkrFR.js:243 當前 origin: https://audai.thinkwithblack.com
+index-Da6pkrFR.js:243 正在請求 API: https://audai.thinkwithblack.com/api/auth/user
+index-Da6pkrFR.js:243 ✅ 找到 localStorage token，添加到 Authorization header
+index-Da6pkrFR.js:243 🔄 初始化認證系統...
+index-Da6pkrFR.js:243 當前頁面 URL: https://audai.thinkwithblack.com/
+index-Da6pkrFR.js:243 當前 origin: https://audai.thinkwithblack.com
+index-Da6pkrFR.js:243 正在請求 API: https://audai.thinkwithblack.com/api/auth/user
+index-Da6pkrFR.js:243 ✅ 找到 localStorage token，添加到 Authorization header
+api/dashboard/stats:1   Failed to load resource: the server responded with a status of 401 ()
+api/analyses:1   Failed to load resource: the server responded with a status of 401 ()
+index-Da6pkrFR.js:243 認證回應狀態: 200
+index-Da6pkrFR.js:243 ✅ 用戶認證成功: Object
+index-Da6pkrFR.js:243 認證回應狀態: 200
+index-Da6pkrFR.js:243 ✅ 用戶認證成功: Object
+index-Da6pkrFR.js:313 認證狀態: Object
+index-Da6pkrFR.js:243 🔄 初始化認證系統...
+index-Da6pkrFR.js:243 當前頁面 URL: https://audai.thinkwithblack.com/analysis
+index-Da6pkrFR.js:243 當前 origin: https://audai.thinkwithblack.com
+index-Da6pkrFR.js:243 正在請求 API: https://audai.thinkwithblack.com/api/auth/user
+index-Da6pkrFR.js:243 ✅ 找到 localStorage token，添加到 Authorization header
+index-Da6pkrFR.js:243 🔄 初始化認證系統...
+index-Da6pkrFR.js:243 當前頁面 URL: https://audai.thinkwithblack.com/analysis
+index-Da6pkrFR.js:243 當前 origin: https://audai.thinkwithblack.com
+index-Da6pkrFR.js:243 正在請求 API: https://audai.thinkwithblack.com/api/auth/user
+index-Da6pkrFR.js:243 ✅ 找到 localStorage token，添加到 Authorization header
+index-Da6pkrFR.js:243 🔄 初始化認證系統...
+index-Da6pkrFR.js:243 當前頁面 URL: https://audai.thinkwithblack.com/analysis
+index-Da6pkrFR.js:243 當前 origin: https://audai.thinkwithblack.com
+index-Da6pkrFR.js:243 正在請求 API: https://audai.thinkwithblack.com/api/auth/user
+index-Da6pkrFR.js:243 ✅ 找到 localStorage token，添加到 Authorization header
+api/dashboard/stats:1   Failed to load resource: the server responded with a status of 401 ()
+index-Da6pkrFR.js:243 認證回應狀態: 200
+index-Da6pkrFR.js:243 ✅ 用戶認證成功: Object
+index-Da6pkrFR.js:243 認證回應狀態: 200
+index-Da6pkrFR.js:243 ✅ 用戶認證成功: Object
+index-Da6pkrFR.js:243 認證回應狀態: 200
+index-Da6pkrFR.js:243 ✅ 用戶認證成功: Object
+api/dashboard/stats:1   Failed to load resource: the server responded with a status of 401 ()
+index-Da6pkrFR.js:48 apiRequest called: Object
+api/analyze:1   Failed to load resource: the server responded with a status of 401 ()
+index-Da6pkrFR.js:48 apiRequest response: 401 
